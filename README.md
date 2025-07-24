@@ -1,7 +1,7 @@
 # Startup Health Scoring Model
 
 Hi, I'm Sakshi Vedi  
-This project is part of my submission for the ScaleDux AI Internship. The goal is to evaluate and rank startups based on key business metrics like team strength, market size, traction, funding, and burn rate.
+The goal is to evaluate and rank startups based on key business metrics like team strength, market size, traction, funding, and burn rate.
 
 ---
 
